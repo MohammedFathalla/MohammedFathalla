@@ -17,5 +17,4 @@
 ---
 
 ### GitHub Stats:
-<img align="center" alt="mohamedX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MohammedFathalla&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<img align="center" alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MohammedFathalla&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&bg_color=0A0F2C&text_color=E0F0FF&border_color=1E90FF" />
